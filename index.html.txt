@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema Nervioso y Musculoesquelético</title>
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --secondary: #3498db;
+            --accent: #e74c3c;
+            --light: #ecf0f1;
+        }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; margin: 0; color: #333; background-color: var(--light); }
+        header { background: var(--primary); color: white; padding: 2rem; text-align: center; }
+        .container { max-width: 1000px; margin: auto; padding: 20px; }
+        section { background: white; margin-bottom: 20px; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        h2 { color: var(--secondary); border-bottom: 2px solid var(--secondary); padding-bottom: 10px; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+        .card { border: 1px solid #ddd; padding: 15px; border-radius: 5px; background: #f9f9f9; }
+        img { max-width: 1000px; height: auto; border-radius: 5px; display: block; margin: 10px auto; }
+        .footer { text-align: center; padding: 20px; font-size: 0.9em; color: #666; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>El Sistema Nervioso Central y Musculoesquelético</h1>
+    <p>Una Visión General de nuestra Salud y Movimiento</p>
+</header>
+
+<div class="container">
+    <section>
+        <h2>Sistema Nervioso Central (SNC)</h2>
+        <p>El SNC es el centro de comando del cuerpo, responsable de integrar y coordinar toda la información sensorial y motora[cite: 2, 34]. Sin él, seríamos incapaces de pensar, sentir o incluso respirar[cite: 3, 35].</p>
+        
+        
+        <div class="grid">
+            <div class="card">
+                <h3>El Cerebro</h3>
+                <p>El órgano más complejo; controla el pensamiento, la memoria, emociones, habilidades motoras y procesos vitales[cite: 4, 38].</p>
+            </div>
+            <div class="card">
+                <h3>La Médula Espinal</h3>
+                <p>Vía principal de comunicación entre el cerebro y el cuerpo, transmitiendo señales motoras y sensoriales[cite: 5, 40].</p>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Sistema Musculoesquelético</h2>
+        <p>Proporciona soporte, estabilidad y capacidad de movimiento mediante una red de huesos, músculos y tejidos[cite: 7, 8, 43, 44].</p>
+        
+        
+        <div class="grid">
+            <div class="card">
+                <h3>Huesos y Articulaciones</h3>
+                <p>Los huesos protegen órganos y almacenan minerales [cite: 9, 48], mientras que las articulaciones permiten el movimiento[cite: 11, 54].</p>
+            </div>
+            <div class="card">
+                <h3>Músculos y Tejidos</h3>
+                <p>Los músculos permiten el movimiento al contraerse[cite: 10, 51]. Los tendones unen músculos a huesos y los ligamentos unen huesos entre sí[cite: 12, 57].</p>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Salud y Patologías</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>Afecciones del SNC</h3>
+                <ul>
+                    <li>Alzheimer y Parkinson [cite: 14, 61]</li>
+                    <li>Esclerosis Múltiple [cite: 15, 63]</li>
+                    <li>Accidente Cerebrovascular (ACV) [cite: 16]</li>
+                </ul>
+            </div>
+            <div class="card">
+                <h3>Afecciones Musculoesqueléticas</h3>
+                <ul>
+                    <li>Artritis y Osteoporosis [cite: 19, 20]</li>
+                    <li>Hernia Discal [cite: 21]</li>
+                    <li>Fibromialgia [cite: 22]</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Tratamientos y Recomendaciones</h2>
+        <p>Para una mejor calidad de vida, se recomienda:</p>
+        <ul>
+            <li><strong>Fisioterapia:</strong> Ejercicios y masajes para restaurar la función[cite: 24].</li>
+            <li><strong>Estilo de Vida:</strong> Ejercicio regular, dieta equilibrada y descanso[cite: 29].</li>
+            <li><strong>Atención Médica:</strong> Chequeos periódicos para detección temprana[cite: 29].</li>
+        </ul>
+    </section>
+</div>
+
+<div class="footer">
+    <p>Información basada en la Guía General del Sistema Nervioso y Musculoesquelético.</p>
+</div>
+
+</body>
+</html>
